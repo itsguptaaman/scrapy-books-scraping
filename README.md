@@ -7,5 +7,5 @@ scrapy startproject project_name
 
 ### To run the crawler
 ```
-scrapy crawl books
+scrapy crawl name
 ```
